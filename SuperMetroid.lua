@@ -399,7 +399,7 @@ local function showItems()
 		end
 		-- gui.pixelText(itemsBarX, itemsBarY, iIcons.NotCollected, 0xFF999999, 0xBB000000)
 		-- gui.pixelText(itemsBarX, itemsBarY, iIcons.Collected, 0xFF00FF00, 0x00000000)
-	ends
+	end
 end
 
 
